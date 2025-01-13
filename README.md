@@ -72,20 +72,15 @@ Profissional da área de Engenharia de Dados, focado no desenvolvimento de pipel
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; gap: 10px;">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelipeDutraEng&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=FelipeDutraEng&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDutraEng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
-/>
-
-</p>
+  <img 
+      alt="GitHub Top Languages" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDutraEng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+  />
+</div>
