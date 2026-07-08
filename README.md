@@ -2,7 +2,7 @@
 
 ## 💫 Sobre mim
 
-Engenheiro mecânico (em formação, Uninassau) e **Supervisor de Planejamento e Montagem** em estruturas metálicas, atuando na interface entre campo, planejamento e dados. Six Sigma Green Belt.
+Engenheiro mecânico e **Supervisor de Planejamento e Montagem** em estruturas metálicas, atuando na interface entre campo, planejamento e dados. Six Sigma Green Belt.
 
 Minha base é gestão de projetos, metodologias ágeis (Scrum), Last Planner System, Lean Construction e modelagem (SolidWorks, CATIA). A partir dessa experiência de obra, comecei a construir minhas próprias ferramentas para resolver problemas reais de medição de contratos, orçamento e controle de produção — e hoje transito entre engenharia de campo e o desenvolvimento de soluções estratégicas com desenvolvimento de software.
 
